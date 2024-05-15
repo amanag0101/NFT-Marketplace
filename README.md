@@ -19,8 +19,11 @@ Since Pinata is used for IPFS, the Pinata Gateway URL, Pinata Gateway Key and th
 
 # Preview
 
-![image](https://github.com/amanag0101/NFT-Marketplace/assets/55055593/bfaed6cc-9216-46f7-8c49-431f7d614748)
+![image](https://github.com/amanag0101/NFT-Marketplace/assets/55055593/88ea20ae-e48c-437d-b9b6-b4198354c875)
 
-![image](https://github.com/amanag0101/NFT-Marketplace/assets/55055593/6aaae3b2-af3c-4b6d-83e6-86234782e981)
+
+
+![image](https://github.com/amanag0101/NFT-Marketplace/assets/55055593/2ed92e6e-80fa-42e3-8323-6c615ef275ce)
+
 
 
